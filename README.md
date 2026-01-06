@@ -22,8 +22,8 @@ We present a synthetic evaluation framework for studying multi-hop reasoning cap
 
 ```bash
 # Clone the repository
-git clone https://github.com/micahkatz/{FILL}.git
-cd {FILL}
+git clone https://github.com/micahkatz/multi-hop-contextual-reasoning.git
+cd multi-hop-contextual-reasoning
 
 # Create virtual environment
 python -m venv venv
