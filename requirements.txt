@@ -1,0 +1,9 @@
+# Multi-Hop Contextual Reasoning Evaluation Framework
+# Python 3.10+ required
+langgraph>=0.2.0
+langchain-core>=0.3.0
+langchain-ollama>=0.2.0
+numpy>=1.24.0
+scipy>=1.10.0
+matplotlib>=3.7.0
+seaborn>=0.12.0
